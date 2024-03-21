@@ -1,0 +1,13 @@
+with image
+
+py gad.py --image file.img
+
+with video
+
+py gad.py
+
+
+library installation
+
+ pip install argparse
+ pip install argparse
